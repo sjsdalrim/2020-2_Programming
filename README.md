@@ -2,9 +2,7 @@
 
 Chung-Ang university / grade : 1    semester : 2
 
-Programming
-
-Project:
+Programming (C)
 
 .
 
